@@ -1,0 +1,28 @@
+# AHP (Analytical Hierarchy Process)
+
+Analytic Hierarchy process is a multi-criteria decision making method introduced by Prof. Thomas Saaty in 1970.
+"It is a way to help decision makers make informed decisions by quantifying subjective beliefs within Mathematics framework.
+
+The Process:
+Step 1: Define the ultimate goal of the process
+Step 2: List the various option you have to fulfil the goal.
+Step 3: List the different criteria by which you asses the above alternative.
+Step 4: Build the hierarcy from step 1 to step 3. 
+Step 5: Pairwise comparision of each criteria and sub-criteria to establish their weights.
+Step 6: Pairwise comparision of each criteria against each sub-criteria to establish their weights.
+Step 7: Global summation of all these weight for each alternative and ordering them on the basis of the weighted sum
+Step 8: Calculater the consistency ratio. This is a measure of how consistent the subjective assesment is.
+
+The keyword of AHP is *Pairwise Comparision*.
+
+Intensity of Importance  - Defination
+1 - Equal Importance
+2 - Weak & slight
+3 - Moderate Importance
+4 - Moderate Plus
+5 - Strong Importance
+6 - Strong Plus
+7 - Very Strong
+8 - Very Very Strong
+9 - Extreme Importance
+
